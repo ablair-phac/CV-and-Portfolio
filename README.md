@@ -29,7 +29,7 @@ Download my CV:
 - Training & Capacity Building
 
 ## Skills
-- Quantitative Analysis and Reporting: R, Stata, SAS, SPSS, Excel, HTML
+- Quantitative Analysis and Reporting: R, Stata, SAS, SPSS, Excel, HTML, leveraging AI
 - Qualitative Methods: Data collection, thematic analysis
 - Data Management: CCHS, NPHS, CanCHEC, Census, LFS, HBSC, CIHI and ICES data holdings
 - GIS & Spatial Analysis: ArcGIS
