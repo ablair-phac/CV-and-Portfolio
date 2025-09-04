@@ -88,8 +88,7 @@ My scientific contributions include peer-reviewed publications, public health re
 ### 📊 Interactive Dashboards
 I work with data analysts, epidemiologists, programmers and academic and community partners to ensure maximum real world impact of data analytics:
 
-I work with data analysts, epidemiologists, programmers and academic and community partners to ensure maximum real world impact of data analytics:
- Explore inequalities in mental health in Canada over time using the **Mental Health Inequalities Data Tool**, developed with the Public Health Agency of Canada.
+- Explore inequalities in mental health in Canada over time using the **Mental Health Inequalities Data Tool**, developed with the Public Health Agency of Canada.
 (https://health-infobase.canada.ca/health-inequalities/data-tool/)
 
 - Explore national-level health inequality data using the **Health Inequalities Data Tool**, developed with the the Public Health Agency of Canada.
