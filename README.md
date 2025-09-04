@@ -90,5 +90,8 @@ I work with data analysts, epidemiologists, programmers and academic and communi
 - Explore inequalities in mental health in Canada over time using the Mental Health Inequalities Data Tool, developed with the Public Health Agency of Canada.
 (https://health-infobase.canada.ca/health-inequalities/data-tool/)
 
-- Explore national-level health inequality data using the Health Inequalities Data Tool developed, with the the Public Health Agency of Canada.
-(https://health-infobase.canada.ca/health-inequalities/img/DataMap_GenPop.png)
+- Explore national-level health inequality data using the Health Inequalities Data Tool, developed with the the Public Health Agency of Canada.
+  (https://health-infobase.canada.ca/health-inequalities/data-tool/Index)
+
+- Explore data on inequalities in COVID-19 mortality, developed with the the Public Health Agency of Canada.
+  (https://health-infobase.canada.ca/covid-19/inequalities-deaths/data-tool/)
