@@ -98,4 +98,4 @@ I work with data analysts, epidemiologists, programmers and academic and communi
   (https://health-infobase.canada.ca/covid-19/inequalities-deaths/data-tool/)
 
 ## Get In Touch
-For services, consulting, or collaboration, please reach out to alexandra.blair@phac-aspc.gc.ca and alexandra.blair@utoronto.ca. Let's work together.
+Let's work together! For services, consulting, or collaboration, please reach out to alexandra.blair@phac-aspc.gc.ca and alexandra.blair@utoronto.ca.
