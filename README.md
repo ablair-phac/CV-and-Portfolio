@@ -97,5 +97,16 @@ I work with data analysts, epidemiologists, programmers and academic and communi
 - Explore data on **inequalities in COVID-19 mortality**, developed with the the Public Health Agency of Canada.
   (https://health-infobase.canada.ca/covid-19/inequalities-deaths/data-tool/)
 
+## Testimonials & Feedback
+
+### Teaching feedback
+> "I really enjoyed the way you presented the material it was very easy to understand and digest. Additionally, the interactive activities you incorporated throughout the presentation really helped to review and understand the material that was presented while also keeping me engaged. This was an amazing presentation with so much valuable information and I really enjoyed it!" - Student feedback, University of Toronto, Social Epidemiology (CH5419) Lecture
+
+> "Was so amazing! Loved the combination of you explaining but also leaving space for questions! Honestly cant think of anything to improve, it was so amazing!" - Student feedback, University of Toronto, Population Perspectives for Epidemiology (CHL5426H) Lecture"
+
+> "You provided an amazing lecture today, thank you! I found the brainstorming and interactive components of your lecture was very useful” [...] “The use of real data made the theoretical concepts more understandable" - Student feedback, University of Toronto, Social Determinants of Health (CHL 5105) Lecture
+
+
+
 ## Get In Touch
 Let's work together! For services, consulting, or collaboration, please reach out to alexandra.blair@phac-aspc.gc.ca and alexandra.blair@utoronto.ca.
