@@ -88,7 +88,8 @@ My scientific contributions include peer-reviewed publications, public health re
 ### 📊 Interactive Dashboards
 I work with data analysts, epidemiologists, programmers and academic and community partners to ensure maximum real world impact of data analytics:
 
-- Explore inequalities in mental health in Canada over time using the **Mental Health Inequalities Data Tool**, developed with the Public Health Agency of Canada.
+I work with data analysts, epidemiologists, programmers and academic and community partners to ensure maximum real world impact of data analytics:
+ Explore inequalities in mental health in Canada over time using the **Mental Health Inequalities Data Tool**, developed with the Public Health Agency of Canada.
 (https://health-infobase.canada.ca/health-inequalities/data-tool/)
 
 - Explore national-level health inequality data using the **Health Inequalities Data Tool**, developed with the the Public Health Agency of Canada.
@@ -96,6 +97,12 @@ I work with data analysts, epidemiologists, programmers and academic and communi
 
 - Explore data on **inequalities in COVID-19 mortality**, developed with the the Public Health Agency of Canada.
   (https://health-infobase.canada.ca/covid-19/inequalities-deaths/data-tool/)
+
+### 🎤 Conference Presentations 
+I regularly present scientific work at academic conferences. Here are some recorded highlights:
+- [En français] Comment intégrer la théorie de l’intersectionnalité dans les analyses quantitatives d’équité en santé? Conférence ACSP 2022 (https://youtu.be/DMr-BQICNL0)
+- [In English] Social inequalities in COVID-19 mortality by area- and individual-level characteristics in Canada. CPHA Conference, 2021 (https://youtu.be/FizsGPpuEuY)
+
 
 ## Testimonials & Feedback
 
