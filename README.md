@@ -88,11 +88,14 @@ My scientific contributions include peer-reviewed publications, public health re
 ### 📊 Interactive Dashboards
 I work with data analysts, epidemiologists, programmers and academic and community partners to ensure maximum real world impact of data analytics:
 
-- Explore inequalities in mental health in Canada over time using the Mental Health Inequalities Data Tool, developed with the Public Health Agency of Canada.
+- Explore inequalities in mental health in Canada over time using the **Mental Health Inequalities Data Tool**, developed with the Public Health Agency of Canada.
 (https://health-infobase.canada.ca/health-inequalities/data-tool/)
 
-- Explore national-level health inequality data using the Health Inequalities Data Tool, developed with the the Public Health Agency of Canada.
+- Explore national-level health inequality data using the **Health Inequalities Data Tool**, developed with the the Public Health Agency of Canada.
   (https://health-infobase.canada.ca/health-inequalities/data-tool/Index)
 
-- Explore data on inequalities in COVID-19 mortality, developed with the the Public Health Agency of Canada.
+- Explore data on **inequalities in COVID-19 mortality**, developed with the the Public Health Agency of Canada.
   (https://health-infobase.canada.ca/covid-19/inequalities-deaths/data-tool/)
+
+## Get In Touch
+For services, consulting, or collaboration, please reach out to alexandra.blair@phac-aspc.gc.ca and alexandra.blair@utoronto.ca. Let's work together.
