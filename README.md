@@ -53,6 +53,7 @@ Download my CV:
 - University of Toronto
 - CHUM Research Center
 - University of Edinburgh
+- Scottish Collaboration for Public Health Research and Policy
 - McGill University & Douglas Mental Health Institute
 - Institute for Health and Social Policy
 - Direction de santé publique de Montréal
