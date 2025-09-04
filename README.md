@@ -68,7 +68,7 @@ Collaborations: Statistics Canada, CIHI, ICES, FNIGC, Diabetes Canada, Black Hea
 ## Publication Highlights 
 My scientific contributions include peer-reviewed publications, public health reports, media interviews, conference presentations, data blogs and tools:
 
-### 👥 Reports
+### 👥 Authored Reports
 - Monitoring Changes in Health Inequalities through time – Government of Canada
 (https://www.canada.ca/en/public-health/services/publications/science-research-data/monitoring-changes-health-inequalities-scan-international-initiatives-rapid-review-scientific-literature.html")
 
